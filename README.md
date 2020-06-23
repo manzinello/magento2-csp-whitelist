@@ -2,6 +2,10 @@
 
 A module to whitelist CSP in Magento 2
 
+## Instructions
+
+Substitute `https://www.example.com` in `/etc/config.xml`, then
+
 ```
 php bin/magento module:enable Mm_CspWhitelist
 ```
