@@ -7,7 +7,7 @@ A module to whitelist CSP in Magento 2
 Substitute `https://www.example.com` in `/etc/config.xml`, then
 
 ```
-php bin/magento module:enable Mm_CspWhitelist
+php bin/magento module:enable Manzinello_CspWhitelist
 ```
 
 and
